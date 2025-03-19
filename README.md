@@ -1,2 +1,3 @@
 # Modulo0fsDEL-Henry
-Este es un repositorio de prueba del modulo 0 de la carrera DFST
+
+Este es una prueba sobre como crear un repositorio y como clonarlo de github a mi computador
